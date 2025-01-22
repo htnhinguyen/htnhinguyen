@@ -1,5 +1,5 @@
 # 👋 Hello, World! 
-## I'm Emerie Nguyen, a passionate Computer Science senior and aspiring Software Engineer with a knack for blending technology, creativity, and community. 💻✨
+## I'm Emerie Nguyen - a passionate Computer Science senior and aspiring Software Engineer with a knack for blending technology, creativity, and community. 💻✨
 
 ## What I do:
 🛠️ Build innovative projects like Job Sniper, a Discord bot that streamlines job applications, and a Stock Forecast app leveraging Fibonacci retracement for market insights.
